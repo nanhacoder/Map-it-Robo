@@ -4,8 +4,7 @@
 ---
 
 <h1 id="map-it-robo">Map-it-ROBO</h1>
-<p><strong>Building a map</strong> using a dataset consisting of odometry, IMU,<br>
-laser range finder, SONAR and video recordings from cameras by a wheeled robot. The project uses <strong>GMapping</strong> a <strong>Simultaneous localization and Mapping (SLAM)</strong> algorithm.</p>
+<p><strong>Building a map</strong> using a dataset consisting of odometry, IMU, laser range finder, SONAR and video recordings from cameras by a wheeled robot. The project uses <strong>GMapping</strong> a <strong>Simultaneous localization and Mapping (SLAM)</strong> algorithm.</p>
 <h2 id="the-dataset">The Dataset</h2>
 <p>I have used <a href="http://www.rawseeds.org/rs/datasets/view//6">Raw Seeds</a> dataset for SLAM implementation. The dataset consists of odometry, IMU,laser range finder, SONAR and video recordings from cameras. This data is collected by driving a wheeled robot equipped with these sensors through the library at <a href="http://www.rawseeds.org/rs/capture_sessions/view/5"><em><strong>Universita’ Degli Studi Di Milano Bicocca</strong></em></a>.</p>
 <h2 id="implementation">Implementation</h2>
